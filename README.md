@@ -20,6 +20,6 @@ Express, and backend/frontend on the fly was quite difficult, though rewarding. 
 approach the project in a different manner, laying out the steps to take before diving in. 
 If I had more time, I would have adjusted the aesthetics a bit, as well as adding filtering
 abilities, linking the websites of the partners to their titles in the tiles, and ensuring
-usability regardless of window size. The main issues I ran into were with implementing the 
+usability regardless of window size. I would also clean the code and add more comments. The main issues I ran into were with implementing the 
 update/delete of partner data, which I resolved by storing in a separate JSON file to ensure
 consistency across users.
